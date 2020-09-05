@@ -10,4 +10,4 @@ def permute_string(str):
                 next_list.append(new_str)
     return next_list
 
-print(permute_string('ABCDE'));
+print(permute_string('ABCDEF'));
